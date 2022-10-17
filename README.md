@@ -10,6 +10,7 @@ Translator using the DeepL API
 **Tech used:** HTML, CSS, JavaScript, React
 
 Leveraging the DeepL API via an API proxy to translate text
+
 Features:
 
 - controlled inputs
