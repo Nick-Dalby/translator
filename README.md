@@ -30,8 +30,8 @@ probably lots of ways to reduce API requests, implement cacheing etc...
 
 Here are some more examples of recent projects in my portfolio:
 
-**AK-Wat Portfolio:**https://github.com/Nick-Dalby/ak-portfolio
+**AK-Wat Portfolio:** https://github.com/Nick-Dalby/ak-portfolio
 
 **Splitter Tip Calculator:** https://github.com/Nick-Dalby/splitter-tip-calculator
 
-**Do, Doing, Done! Kanban board:**https://github.com/Nick-Dalby/react-typescript-dnd-kanban
+**Do, Doing, Done! Kanban board:** https://github.com/Nick-Dalby/react-typescript-dnd-kanban
